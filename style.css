@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .bg-image {
@@ -12,21 +13,21 @@ body {
 
 .header-text {
     position: absolute;
-    font-family: Teko;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 100px;
     line-height: 186px;
     color: white;
 }
 
 .main-title {
-    font-family: Teko;
+    font-family: 'Balsamiq Sans', cursive;
     font-size: 130px;
     line-height: 100%;
 }
 
 .main-text {
     width: 641px;
-    font-family: PT Sans Narrow;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 20px;
     line-height: 26px;
 }
